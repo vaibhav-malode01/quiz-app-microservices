@@ -80,6 +80,7 @@ After startup:
 - Service-layer testing without starting Spring context
 - Fast and isolated tests for business logic validation
 
+---
 
 ## 🚀 Learning Outcome
 
@@ -90,11 +91,6 @@ This project demonstrates:
 
 ---
 
-## 📎 Note
-
-This project is intended for **learning, academic, and interview demonstration purposes** and focuses on architectural concepts rather than production deployment.
-
----
 
 ### 👨‍💻 Author
 Vaibhav Malode
