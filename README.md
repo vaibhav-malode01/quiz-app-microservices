@@ -73,6 +73,14 @@ After startup:
 
 ---
 
+## 🧪 Testing
+
+- Unit testing implemented using **JUnit 5**
+- **Mockito** used to mock repositories and Feign clients
+- Service-layer testing without starting Spring context
+- Fast and isolated tests for business logic validation
+
+
 ## 🚀 Learning Outcome
 
 This project demonstrates:
